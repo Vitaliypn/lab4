@@ -1,0 +1,173 @@
+Welcome to the Lviv game. Your task here will be to go
+to Kozelnytska street. Be careful and never go back only forward.
+There will be several enemies and u need to worry not to be killed
+
+
+Краківська
+--------------------
+You bus stop here and u need to get to Kolegium.
+The проспект Тараса Шевченка is south
+The [calculator] is here - A calculator
+> take
+You put the calculator in your backpack
+
+
+Краківська
+--------------------
+You bus stop here and u need to get to Kolegium.
+The проспект Тараса Шевченка is south
+> south 
+
+
+проспект Тараса Шевченка
+--------------------
+Here you can meet gopnik be careful
+The Краківська is north
+The вулиця Стрийська is west
+Gopnik is here!
+A guy that likes to were adidas
+The [Passport] is here - A passport
+> take
+You put the Passport in your backpack
+
+
+проспект Тараса Шевченка
+--------------------
+Here you can meet gopnik be careful
+The Краківська is north
+The вулиця Стрийська is west
+Gopnik is here!
+A guy that likes to were adidas
+> fight
+Gopnik punch you! You left with 7 hp
+Gopnik punch you! You left with 4 hp
+You have 4 lives more.
+
+
+проспект Тараса Шевченка
+--------------------
+Here you can meet gopnik be careful
+The Краківська is north
+The вулиця Стрийська is west
+> west
+
+
+вулиця Стрийська
+--------------------
+Be carefull here can be soldiers
+The проспект Тараса Шевченка is east
+The вулиця Козельницька is south
+Soldier is here!
+A guy that can give u a notice
+The [alkohol] is here - An whiskey
+> fight
+[Soldier]: Hello! How old are you!
+Your age: 17
+You can walk around
+[Soldier]: Show me your passport!
+[Me]: Shows the pasport
+[Soldier]: Okay! you can go!
+
+
+вулиця Стрийська
+--------------------
+Be carefull here can be soldiers
+The проспект Тараса Шевченка is east
+The вулиця Козельницька is south
+The [alkohol] is here - An whiskey
+> south
+
+вулиця Козельницька
+--------------------
+Final destionation and final boss
+The вулиця Стрийська is north
+Dobosevych is here!
+Dekan of APPS UCU
+> fight
+Final boss. A calculator will make your life simple
+What is 26 + 1
+> 27
+You won the game
+
+________________________________________________________________________
+
+Welcome to the Lviv game. Your task here will be to go
+to Kozelnytska street. Be careful and never go back only forward.
+There will be several enemies and u need to worry not to be killed
+
+
+Краківська
+--------------------
+You bus stop here and u need to get to Kolegium.
+The проспект Тараса Шевченка is south
+The [calculator] is here - A calculator
+> take
+You put the calculator in your backpack
+
+
+Краківська
+--------------------
+You bus stop here and u need to get to Kolegium.
+The проспект Тараса Шевченка is south
+> south
+
+
+проспект Тараса Шевченка
+--------------------
+Here you can meet gopnik be careful
+The Краківська is north
+The вулиця Стрийська is west
+Gopnik is here!
+A guy that likes to were adidas
+The [Passport] is here - A passport
+> fight
+Gopnik punch you! You left with 6 hp
+Gopnik punch you! You left with 2 hp
+You have 2 lives more.
+
+
+проспект Тараса Шевченка
+--------------------
+Here you can meet gopnik be careful
+The Краківська is north
+The вулиця Стрийська is west
+The [Passport] is here - A passport
+> take
+You put the Passport in your backpack
+
+
+проспект Тараса Шевченка
+--------------------
+Here you can meet gopnik be careful
+The Краківська is north
+The вулиця Стрийська is west
+> west
+
+
+вулиця Стрийська
+--------------------
+Be carefull here can be soldiers
+The проспект Тараса Шевченка is east
+The вулиця Козельницька is south
+Soldier is here!
+A guy that can give u a notice
+The [alkohol] is here - An whiskey
+> fight
+[Soldier]: Hello! How old are you!
+Your age: 17
+You can walk around
+[Soldier]: Show me your passport!
+[Me]: Shows the pasport
+[Soldier]: Okay! you can go!
+
+
+вулиця Стрийська
+--------------------
+Be carefull here can be soldiers
+The проспект Тараса Шевченка is east
+The вулиця Козельницька is south
+The [alkohol] is here - An whiskey
+> take
+You put the alkohol in your backpack
+You told the soldier that u are under 18 and then you take an alcohol...
+You lose
